@@ -4,6 +4,7 @@ How to generate a full-featured React app from a restful Swagger API definition 
 (Work in progress, will soon add a tutorial as well as the code)
 
 ## Exploring the example React app we want to generate 
+## Exploring the generic backend search/query library to make life easier on us 
 ## Swagger json structure
 ## Exposing validation rules from the backend API
 ## Mapping Rest API routes and resources to the React project structure
